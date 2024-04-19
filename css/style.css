@@ -44,7 +44,7 @@ body{
 }
 
 .header_area .main-menu .navbar-nav a:hover{
-    background: var(--gradient-color);
+    background: red;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
